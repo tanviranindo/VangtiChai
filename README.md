@@ -2,7 +2,7 @@
 
 VangtiChai is an assignment-1 of CSE489: Android Development. This assignment has been done in Flutter.
 
-## Support
+# Support
 
 This application has been tested on both portrait and landscape mode in the following devices.
 
@@ -14,7 +14,7 @@ This application has been tested on both portrait and landscape mode in the foll
 | &#x2611; | Nexus 7 2012 |   4.1   |  800x1280 |  7.0"  |
 | &#x2611; |    Nexus 9   |   5.1   | 2048x1536 |  8.9"  |
 
-##Update
+# Update
 As per requirements, the assignment is completed, but there are some additional features need to be added.
 - [ ] Implement using Big Integer
 - [ ] Handle overflow with HorizontalScrolling
