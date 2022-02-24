@@ -1,6 +1,7 @@
 # VangtiChai
 
-VangtiChai is an assignment-1 of CSE489: Android Development. This assignment has been done in Flutter.
+VangtiChai is an assignment-1 of CSE489: Android Development. This assignment has been done in
+Flutter.
 
 # Support
 
@@ -15,8 +16,12 @@ This application has been tested on both portrait and landscape mode in the foll
 | &#x2611; |    Nexus 9   |   5.1   | 2048x1536 |  8.9"  |
 
 # Update
-As per requirements, the assignment is completed, but there are some additional features need to be added.
+
+As per requirements, the assignment is completed, but there are some additional features need to be
+added.
+
 - [ ] Implement using Big Integer
 - [ ] Handle overflow with HorizontalScrolling
 - [ ] Switch to button from text
-- [ ] Adding animation
+- [ ] Add animation
+- [ ] Add dark mode
