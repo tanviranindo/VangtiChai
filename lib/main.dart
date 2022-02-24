@@ -3,6 +3,9 @@ import 'package:provider/provider.dart';
 import 'package:vangtichai/logics.dart';
 import 'app_constants.dart';
 
+/// @author Tanvir Rahman
+/// @ID 19101268
+
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
