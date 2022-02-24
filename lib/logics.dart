@@ -1,9 +1,8 @@
 import 'package:flutter/foundation.dart';
 
-class Logics extends ChangeNotifier {
+class Calculation extends ChangeNotifier {
   var total = "";
   double remaining = 0;
-  int intMaxValue = 9007199254740991;
   List<int> notes = [500, 100, 50, 20, 10, 5, 2, 1];
   List<int> noteCounts = [0, 0, 0, 0, 0, 0, 0, 0];
 

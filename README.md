@@ -1,7 +1,7 @@
 # VangtiChai
 
 VangtiChai is an assignment-1 of CSE489: Android Development. This assignment has been done in
-Flutter.
+Flutter. Project URL - https://github.com/tanviranindo/vangtichai
 
 # Support
 

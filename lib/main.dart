@@ -31,9 +31,9 @@ class VangtiChai extends StatefulWidget {
 class _VangtiChaiState extends State<VangtiChai> {
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider<Logics>(
-      create: (context) => Logics(),
-      child: Consumer<Logics>(
+    return ChangeNotifierProvider<Calculation>(
+      create: (context) => Calculation(),
+      child: Consumer<Calculation>(
         builder: (context, calculate, child) {
           return Scaffold(
             appBar: AppBar(
