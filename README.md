@@ -10,6 +10,7 @@ This application has been tested on both portrait and landscape mode in the foll
 |  Status  |     Model    | Version |  Display  | Screen |
 |:--------:|:------------:|:-------:|:---------:|:------:|
 | &#x2611; |     Pixel    |   5.1   | 1920x1080 |  5.0"  |
+| &#x2611; |    Pixel XL  |   5.1   | 1440x2560 |  5.5"  |
 | &#x2611; |   Pixel 2XL  |   11.0  | 1440x2880 |  6.0"  |
 | &#x2611; |  Pixel 4 XL  |   12.0  | 1440x3040 |  6.3"  |
 | &#x2611; | Nexus 7 2012 |   4.1   |  800x1280 |  7.0"  |
